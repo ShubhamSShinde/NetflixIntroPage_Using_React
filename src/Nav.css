@@ -1,0 +1,33 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  .n1{
+    font-size: 20px;
+    
+  }
+  li {
+    float: left;
+  }
+  .n1{
+    float:right
+  }
+  .active{
+    FONT-SIZE: 32px;
+    font-weight: 700;
+    color: rgb(167, 28, 28);
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(255, 255, 255);
+  }
